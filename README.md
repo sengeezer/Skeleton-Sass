@@ -6,6 +6,10 @@ Skeleton-Sass currently featues a stable version of Skeleton 2.0.4
 
 -----
 
+**This fork** uses a sleeker SASS coding style that aims to avoid bloat and use more of its capabilities.
+
+-----
+
 Skeleton is a simple, responsive boilerplate to kickstart any responsive project.
 
 Check out <http://getskeleton.com> for documentation and details.
